@@ -1,6 +1,6 @@
 # Web Development Quiz Web App
 
-This is a simple quiz web app focusing on web development topics. It contains a total of 100 questions covering various aspects of web development including HTML, CSS, JavaScript, frameworks, libraries, and more.
+This is a simple quiz web app focusing on web development topics. It contains a total of 10 questions covering various aspects of web development including HTML, CSS, JavaScript, frameworks, libraries, and more.
 
 ## Features
 
